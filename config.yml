@@ -9,3 +9,5 @@ spring:
     name: eureka
 server:
   port: 8761
+dev:
+  test
